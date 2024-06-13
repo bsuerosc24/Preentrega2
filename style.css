@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: rgb(81, 161, 35);
+}
+
+h1, h2{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+.Botones{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+}
